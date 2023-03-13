@@ -52,6 +52,24 @@ Description: Numigi installation hooks for various third-party applications
 License: agpl3
 Vendor: none
 
+Package: numigi-hooks-theming
+Version: 1.0
+Architecture: all
+Maintainer: @Lanhild <joliveau.loan@gmail.com>
+Installed-Size: 2
+Depends: gnome-shell-extensions, gnome-tweaks
+Filename: pool/main/numigi-hooks-theming-1.0-any.deb
+Size: 2620
+MD5sum: f758b8ca9ed225861f352335916a9c49
+SHA1: 7fdf763a9f9361dcf0f15929e7183914c9fa74d0
+SHA256: 9f8240805dec48929a4e41c8d02e80aef2e2b4e82b472c9c398d71c0abd95e87
+Section: default
+Priority: optional
+Homepage: https://github.com/Lanhild/numigi-hooks-theming
+Description: Numigi installation hooks for various theming and customization operations
+License: agpl3
+Vendor: none
+
 Package: numigi-meta
 Version: 1.0
 Architecture: all
